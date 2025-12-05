@@ -1,0 +1,43 @@
+
+PUNEETH SAI TUMBALABEEDU
++1(908) 208-2633 | puneeth.sai2803@gmail.com | linkedin.com/in/puneeth-sai-tumbalabeedu
+
+SUMMARY
+
+US Citizen – Full employment eligibility, no sponsorship required.
+Full Stack Developer with 2+ years of experience at startups, building scalable web applications (React, Node.js, Java, Python, AWS, microservices) serving 1M+ users.
+Proven ability to improve performance (3s → 80ms), mentor junior developers, and resolve critical production issues rapidly.
+PROFESSIONAL EXPERIENCE
+
+Edfora		JUL 2023 – FEB 2025
+Software Engineer
+Architected and implemented report generation with Amazon SQS, improving retrieval speed by 55% — designed asynchronous processing and modular service integration to reduce API load and enhance scalability.
+Processed 500k+ student records to surface peer improvement journeys, enabling personalized dashboards that drove a ~15–20% uplift in admissions.
+Integrated Zoom link creation into workflows, reducing setup time and enabling 10k+ students and 1k+ teachers to seamlessly access live classes.
+Reduced analytics API latency from 3s to 80ms by moving real-time calculations to scheduled batch processes — leveraged background workers, cron jobs, and caching for 200K+ active users.
+Spearheaded user journey mapping & behavioral tracking, boosting engagement by 25%.
+Developed a React + Redux task management module (creation, tracking, notifications), increasing engagement by 35%.
+
+Wilya		MAR 2023 – MAY 2023
+Software Engineering Intern
+Built and launched a React + Storybook design system, cutting UI development time by 40% and ensuring consistency across 50+ reusable components.
+Centime Inc		MAY 2022 – JUL 2022
+Software Engineering Intern
+Developed and deployed a Java Spring Boot microservice integrating configurable metadata, resolving 100+ user data analysis issues and streamlining backend workflows.
+EDUCATION
+
+International Institute of Information Technology, Hyderabad	JUN 2019 - MAY 2023
+Bachelors in Technology , Computer Science
+Led and mentored a 4-member team to build a golden-hit based benchmarking system, cutting assessment time by 70% while ensuring accuracy.
+Developed platform with 2 user roles and 10+ APIs, enabling recruiters to post jobs and applicants to apply, supporting 50 concurrent users.
+Implemented a bash-like shell with 15+ commands, I/O redirection, piping, and signal handling using POSIX system calls.
+Built a BFS-based maze generator with solvable paths and keyboard-controlled gameplay.
+SKILLS
+
+Languages: Java, C++, Python, JavaScript (ES6+), TypeScript, Bash
+Backend: Node.js, Express.js, FastAPI, REST APIs, Microservices
+Frontend: React, Redux, HTML5, CSS3
+Databases: MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud & DevOps: AWS (EC2, S3, SQS), Docker, Kubernetes, Jenkins, CI/CD, Git
+
+
