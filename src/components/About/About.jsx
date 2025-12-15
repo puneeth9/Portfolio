@@ -1,4 +1,5 @@
 import styles from './About.module.css';
+import profilePic from '../../assets/Puneeth_DP.jpeg';
 
 const About = () => {
   return (
@@ -14,9 +15,11 @@ const About = () => {
           <div className={styles.imageWrapper}>
             <div className={styles.imageBorder}></div>
             <div className={styles.imageContainer}>
-              <div className={styles.imagePlaceholder}>
-                <span>PS</span>
-              </div>
+              <img 
+                src={profilePic} 
+                alt="Puneeth Sai Tumbalabeedu " 
+                className={styles.imageContainer}
+              />
             </div>
             <div className={styles.floatingBadge}>
               <span className={styles.badgeIcon}>&#x1F680;</span>
@@ -63,12 +66,26 @@ const About = () => {
               </div>
             </div>
             
-            <a href="#contact" className={styles.contactBtn}>
-              Let's Connect
-              <svg className={styles.btnIcon} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <path d="M5 12h14M12 5l7 7-7 7"/>
-              </svg>
-            </a>
+            <div className={styles.buttonGroup}>
+              <a href="#contact" className={styles.contactBtn}>
+                Let's Connect
+                <svg className={styles.btnIcon} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+              </a>
+              <a 
+                href={`${import.meta.env.BASE_URL}resume.pdf`}
+                download="Puneeth_Sai_Resume.pdf"
+                className={styles.resumeBtn}
+              >
+                Download Resume
+                <svg className={styles.btnIcon} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                  <polyline points="7 10 12 15 17 10"/>
+                  <line x1="12" y1="15" x2="12" y2="3"/>
+                </svg>
+              </a>
+            </div>
           </div>
         </div>
       </div>
